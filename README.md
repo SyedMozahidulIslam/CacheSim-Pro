@@ -2,7 +2,7 @@
 
 # ⚙️ CacheSim Pro
 
-### Cache Memory Simulator — Interactive Educational Tool
+### Cache Memory Simulator — Interactive Visualizer Tool
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6B6B?style=for-the-badge)
@@ -20,9 +20,11 @@
 
 ## 📖 Overview
 
-**CacheSim Pro** is an interactive desktop application that helps Computer Science and Engineering students deeply understand how cache memory works — through real-time visualization, step-by-step simulation, and live statistics.
+**CacheSim Pro** is an interactive desktop application that helps Computer Science and Engineering students deeply understand how cache memory works through real-time visualization, step-by-step simulation, and live statistics. It is a gift to all my department juniors across the world.
 
 Instead of reading about cache hits and misses in a textbook, students can **see** them happen — with color-coded blocks, instant feedback, and side-by-side algorithm comparison.
+Thank You <3
+- SMI Fahim
 
 ### Who Is This For?
 
@@ -422,23 +424,12 @@ python main.py
 
 ---
 
-## 📚 Educational Resources
-
-To learn more about the concepts demonstrated in this simulator:
-
-- **Cache Memory** — Computer Organization and Architecture, Stallings
-- **Page Replacement** — Operating System Concepts (Silberschatz, Galvin)
-- **LRU Implementation** — CLRS Introduction to Algorithms, Ch. 16
-- **Memory Hierarchy** — Computer Architecture: A Quantitative Approach, Hennessy & Patterson
-
----
-
 ## 📄 License
 
 ```
 MIT License
 
-Copyright (c) 2024 CacheSim Pro
+Copyright (c) 2026 CacheSim Pro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -459,7 +450,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👨‍💻 Author
 
-Built as a portfolio project demonstrating:
+Built out of curiosity and to help my department juniors:
 - Clean Python architecture (MVC + Strategy + Factory patterns)
 - Object-oriented design with abstract base classes
 - Tkinter GUI development
@@ -470,8 +461,10 @@ Built as a portfolio project demonstrating:
 
 <div align="center">
 
-**⭐ If this project helped you understand cache memory, please star it on GitHub!**
+**⭐ If this project helped you understand cache memory, please star it on GitHub and do follow me on socials!**
 
 Made with ❤️ for Computer Science students everywhere
+Thanks
+-SMI Fahim (CSE - North South University - Batch 211)
 
 </div>
