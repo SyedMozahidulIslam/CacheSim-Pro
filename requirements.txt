@@ -1,0 +1,10 @@
+# CacheSim Pro — Dependencies
+# Python 3.8+ required
+# All packages below are from the Python standard library
+# No pip install needed!
+
+# tkinter  — GUI framework (bundled with Python)
+# abc      — Abstract base classes
+# collections (deque, OrderedDict) — data structures
+# dataclasses — StepResult packet
+# sys, os  — path management
